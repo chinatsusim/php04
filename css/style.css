@@ -521,6 +521,7 @@ footer ul.menu a{
   font-size:12px;
   text-align: left;
   letter-spacing:0.2cap;
+  margin-top:30px;
 }
 
 .login_msg .hello{
