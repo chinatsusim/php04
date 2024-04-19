@@ -516,7 +516,6 @@ footer ul.menu a{
   margin-right: 15px;
 }
 
-
 /* ログインフォーム */
 .login_msg{
   font-size:12px;
@@ -563,6 +562,7 @@ footer ul.menu a{
   box-sizing: border-box;
   padding: 0 8px;
   font-family: 'Roboto', sans-serif!important;
+  margin-top:5px;
 }
 
 .login_form .finput input::placeholder{
